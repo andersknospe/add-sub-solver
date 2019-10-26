@@ -10,4 +10,6 @@ The AddSubSolver class implemented in this project provides two approachs to sol
 
 After downloading the files required for this program, you may want to run the `AddSubDriver.py` file to see how the AddSubSolver class is used. 
 
+If this is not working for you, you can see a visualization of this program using the written in Javascript with the p5.js language [here](http://andersknospe.com/templates/blog.html#addsubblog)
+
 
